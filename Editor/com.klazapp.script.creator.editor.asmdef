@@ -1,0 +1,17 @@
+{
+    "name": "com.klazapp.script.creator.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4cba64f5ea443484eae8c62834f62bca",
+        "GUID:d161eadcbabe3458780e7d4497e0f22a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

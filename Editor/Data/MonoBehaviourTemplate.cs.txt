@@ -1,0 +1,27 @@
+using UnityEngine;
+using com.Klazapp.Utility;
+
+namespace com.Klazapp.#SCRIPTNAME#
+{
+    [ScriptHeader("#SCRIPTNAME#")]
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+        #region Variables
+        #endregion
+        
+        #region Lifecycle Flow
+        #endregion
+        
+        #region Public Access
+        #endregion
+        
+        #region Modules
+        #endregion
+
+        #region Event Callbacks
+        #endregion
+        
+        #region Interfaces
+        #endregion
+    }
+}
