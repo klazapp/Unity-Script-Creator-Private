@@ -1,5 +1,4 @@
 using UnityEngine;
-using com.Klazapp.Utility;
 
 namespace com.Klazapp.#SCRIPTNAME#
 {
