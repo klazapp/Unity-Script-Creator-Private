@@ -3,7 +3,6 @@ using com.Klazapp.Utility;
 
 namespace com.Klazapp.#SCRIPTNAME#
 {
-    [ScriptHeader("#SCRIPTNAME#")]
     public class #SCRIPTNAME# : MonoBehaviour
     {
         #region Variables
