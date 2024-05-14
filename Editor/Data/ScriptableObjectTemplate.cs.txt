@@ -4,7 +4,6 @@ using com.Klazapp.Utility;
 
 namespace com.Klazapp.#SCRIPTNAME#
 {
-    [ScriptHeader("#SCRIPTNAME#")]
     [CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "Templates/#SCRIPTNAME#", order = 1)]
     [Serializable]
     public class #SCRIPTNAME# : ScriptableObject
